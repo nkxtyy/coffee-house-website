@@ -15,5 +15,5 @@ Feel free to explore, contribute, and enjoy the virtual experience of Coffee Hou
 
 - HTML
 - CSS
-- JavaScript
+
 
