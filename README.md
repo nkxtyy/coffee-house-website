@@ -11,9 +11,5 @@ Welcome to the Coffee House website repository! This project is a responsive web
 
 Feel free to explore, contribute, and enjoy the virtual experience of Coffee House!
 
-## Technologies Used
-
-- HTML
-- CSS
 
 
