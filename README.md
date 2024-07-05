@@ -11,5 +11,12 @@ Welcome to the Coffee House website repository! This project is a responsive web
 
 Feel free to explore, contribute, and enjoy the virtual experience of Coffee House!
 
+## Website Preview
+
+![Screenshot (444)](https://github.com/nkxtyy/coffee-house-website/assets/145798344/bdfcf5e2-c6a3-4cfd-ad82-dc5ff0b47965)
+![Screenshot (445)](https://github.com/nkxtyy/coffee-house-website/assets/145798344/cb17f2f7-6437-41c0-8aab-4e4e871241ac)
+![Screenshot (446)](https://github.com/nkxtyy/coffee-house-website/assets/145798344/fe177665-f6eb-4d19-ab86-14496fc4c02a)
+![Screenshot (447)](https://github.com/nkxtyy/coffee-house-website/assets/145798344/d28400f0-438c-4349-97d6-453fe73e1340)
+![Screenshot (448)](https://github.com/nkxtyy/coffee-house-website/assets/145798344/01e41ddd-486b-41c3-80ba-b31b5e054c5a)
 
 
